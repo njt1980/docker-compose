@@ -1,0 +1,9 @@
+Creating network "compose_default" with the default driver
+Creating compose_eureka_1 ... 
+Creating compose_mysqlcont_1 ... 
+Creating compose_jms_1       ... 
+Creating compose_zipkin_1    ... 
+[4A[2KCreating compose_eureka_1    ... [32mdone[0m[4B[3A[2KCreating compose_mysqlcont_1 ... [32mdone[0m[3B[1A[2KCreating compose_zipkin_1    ... [32mdone[0m[1B[2A[2KCreating compose_jms_1       ... [32mdone[0m[2BCreating compose_beerservice_1 ... 
+Creating compose_beerorderservice_1 ... 
+Creating compose_inventoryservice_1 ... 
+[1A[2KCreating compose_inventoryservice_1 ... [32mdone[0m[1B[3A[2KCreating compose_beerservice_1      ... [32mdone[0m[3B[2A[2KCreating compose_beerorderservice_1 ... [32mdone[0m[2B
